@@ -1,0 +1,2 @@
+flask
+Flask-Login==0.5.0
